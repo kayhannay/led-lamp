@@ -8,6 +8,18 @@ For this implementation I use Rust no_std, since Rust is my favorite programming
 
 ![image](led-lamp.jpg)
 
+## Hardware
+
+Here is a list of the hardware that I use:
+
+* ESP32c3 mini development board ([example from UICPAL](https://de.aliexpress.com/item/1005005780121305.html))
+* WS2812B LED strip 5V with 30 LEDs/m (I use 18 LEDs)
+* 5V power supply
+* some short cables
+* 9 paper sandwich bags
+
+For detailed instructions on how to build the lamp, please refer to the [37C3 Kidspace LEDs project](https://github.com/irgendwienet/37c3-kidspace-leds).
+
 ## Toolchain
 
 First you have to install all required tools. You need Rust,
