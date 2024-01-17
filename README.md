@@ -18,7 +18,8 @@ Here is a list of the hardware that I use:
 * some short cables
 * 9 paper sandwich bags
 
-For detailed instructions on how to build the lamp, please refer to the [37C3 Kidspace LEDs project](https://github.com/irgendwienet/37c3-kidspace-leds).
+For detailed instructions on how to build the lamp, please refer to the [37C3 Kidspace LEDs project](https://github.com/irgendwienet/37c3-kidspace-leds). 
+Please note that I use a different ESP board and a different GPIO port (see below).
 
 ## Toolchain
 
