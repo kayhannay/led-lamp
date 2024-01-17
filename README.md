@@ -26,7 +26,7 @@ Please note that I use a different ESP board and a different GPIO port (see belo
 First you have to install all required tools. You need Rust,
 obviously. I use the [rustup](https://rustup.rs/) tool to install and manage Rust. The installation of the toolchain
 for the ESP32 is described [here](https://esp-rs.github.io/book/installation/riscv.html). For this example I use the
-**no_std toolchain** for the ESP32c6 family. Here the tl;dr version:
+**no_std toolchain** for the ESP32c3 family. Here the tl;dr version:
 
 ```
 rustup toolchain install nightly --component rust-src
